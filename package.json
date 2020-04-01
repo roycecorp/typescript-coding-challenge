@@ -1,0 +1,23 @@
+{
+  "name": "royce-typescript-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "npm run clean && tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bunyan": "^1.8.6",
+    "bunyan": "^1.8.12",
+    "rxjs": "^6.5.4"
+  }, 
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "rimraf": "^3.0.2",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.8.3"
+  }
+}

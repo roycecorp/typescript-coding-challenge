@@ -1,0 +1,19 @@
+{
+       "compilerOptions": {
+      "lib": [
+         "es2017",
+         "DOM"
+      ],
+      "target": "es2017",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "outDir": "./dist",
+      "sourceRoot": "./src",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "downlevelIteration": true,
+      "resolveJsonModule": true
+   }
+}
