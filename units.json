@@ -1,0 +1,28 @@
+{
+    "list": [
+        {
+            "id": 100093,
+            "name": "METRIC TONS",
+            "code": "MT",
+            "indivisible": "N"
+        },
+        {
+            "id": 100095,
+            "name": "KILOGRAMS",
+            "code": "KG",
+            "indivisible": "N"
+        },
+        {
+            "id": 100145,
+            "name": "POUNDS (US LBS)",
+            "code": "LB",
+            "indivisible": "N"
+        },
+        {
+            "id": 113606,
+            "name": "EACH",
+            "code": "EA",
+            "indivisible": "Y"
+        }
+    ]
+}

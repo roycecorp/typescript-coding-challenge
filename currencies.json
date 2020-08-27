@@ -1,0 +1,44 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "Swiss Francs",
+            "code": "CHF"
+        },
+        {
+            "id": 2,
+            "name": "EURO",
+            "code": "EUR"
+        },
+        {
+            "id": 3,
+            "name": "US Dollars",
+            "code": "USD"
+        },
+        {
+            "id": 4,
+            "name": "British Pounds",
+            "code": "GBP"
+        },
+        {
+            "id": 5,
+            "name": "US Cents",
+            "code": "USC"
+        },
+        {
+            "id": 101964,
+            "name": "MEXICAN PESO",
+            "code": "MXN"
+        },
+        {
+            "id": 130348,
+            "name": "HONG KONG DOLLARS",
+            "code": "HKD"
+        },
+        {
+            "id": 11500744,
+            "name": "Canadian Dollar",
+            "code": "CAD"
+        }
+    ]
+}
